@@ -1,0 +1,17 @@
+{
+  "name": "pojo-helper",
+  "version": "1.0.0",
+  "description": "A util that help frong-end transform data from API to what they used in pages, and vice versa.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pojo",
+    "transform",
+    "data",
+    "api"
+  ],
+  "author": "varyzheng",
+  "license": "ISC"
+}
